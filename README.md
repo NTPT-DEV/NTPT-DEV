@@ -23,4 +23,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTPT-DEV&theme=neon&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"height="200" />
 </div>
 
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NTPT-DEV/NTPT-DEV/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NTPT-DEV/NTPT-DEV/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/NTPT-DEV/NTPT-DEV/output/github-snake.svg" />
+</picture> -->
+
+<div align="center">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/NTPT-DEV/NTPT-DEV/output/github-snake-dark.svg" />
+</div>
+
+
 
