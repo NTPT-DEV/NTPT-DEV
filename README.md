@@ -14,7 +14,7 @@
 </div>
 
   
- <h2 align="center">⚡ Languages & Frameworks & Tools & Abilities Software Design ⚡</h1>
+ <h3 align="center">⚡ Tech Stack Frameworks & Tools & Software Design ⚡</h3>
  <img src="https://res.cloudinary.com/dhmfewrsr/image/upload/v1749737352/stack_icon_centerv2_t65nxv.png" alt="My Stack Icon" width="100%" />
 
 <div align="center">
