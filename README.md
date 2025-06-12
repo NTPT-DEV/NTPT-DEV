@@ -1,16 +1,26 @@
-## Hi there 👋
+<div>
+    <p align="center">
+      <img src="https://camo.githubusercontent.com/e116dbfd45eef526ec259adaa73de2045a0a736c6a10a734ea161e36029f27e0/68747470733a2f2f692e696d6775722e636f6d2f564e50327454782e676966" 
+        alt="Animated Header" width="100%"/>
+</div>
+   
+<div align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=28&pause=1000&color=F70085&width=640&lines=Creative+Production+Designer+%3D%3D%3E+Developer+" alt="Typing SVG" /></a>
+</div>
 
-<!--
-**NTPT-DEV/NTPT-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div>
+  <h2 align="center">Frontend Developer | Fullstack Developer </h2>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+ <h2 align="center">💻 Tech Stack & Software Design</h1>
+ <img src="https://res.cloudinary.com/dhmfewrsr/image/upload/v1749727976/stack_icon_center_vzr1de.png" alt="My Stack Icon" width="100%" />
+
+<div align="center">
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=NTPT-DEV&theme=neon&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" /><br/> -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=NTPT-DEV&theme=neon&hide_border=true" alt="GitHub Streak" height="100%" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTPT-DEV&theme=neon&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"height="200" />
+</div>
+
+
