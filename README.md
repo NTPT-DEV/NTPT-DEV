@@ -15,7 +15,7 @@
 
   
  <h3 align="center">⚡ Tech Stack Frameworks & Tools & Software Design ⚡</h3>
- <img src="https://res.cloudinary.com/dhmfewrsr/image/upload/v1749737352/stack_icon_centerv2_t65nxv.png" alt="My Stack Icon" width="100%" />
+<img src="https://res.cloudinary.com/dhmfewrsr/image/upload/v1750766408/stack_icon_center_vuhqgz.png" alt="My Stack Icon" width="100%" />
 
 <div align="center">
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=NTPT-DEV&theme=neon&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" /><br/> -->
