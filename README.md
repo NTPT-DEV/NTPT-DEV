@@ -10,7 +10,7 @@
 
 
 <div>
-  <h2 align="center">Frontend Developer | Fullstack Developer </h2>
+  <h2 align="center">Frontend Developer | Fullstack Developer | Mobile Developer </h2>
 </div>
 
   
